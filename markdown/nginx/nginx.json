@@ -14,7 +14,7 @@
     {
         "title":"php",
         "type":"url",
-        "url":"https://raw.githubusercontent.com/soju6jan/soju6jan.github.io/master/markdown/nginx/php.md",
+        "url":"https://raw.githubusercontent.com/soju6jan/nginx_support/main/php.md",
         "active":false
     }
 ]
