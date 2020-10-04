@@ -1,5 +1,10 @@
 # php #
+
 php 모듈은 nginx 플러그인 설치시 같이 설치됩니다.
+
+기본적인 모듈은 같이 설치되어 있으면 phpinfo.php에서 확인 가능합니다.
+
+phpinfo : [phpinfo.php](/www/phpinfo.php)
 
 ## myComix ##
 
