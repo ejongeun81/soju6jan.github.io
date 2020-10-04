@@ -10,7 +10,9 @@ imurRoid 님이 만드신 만화뷰어입니다.
 ### 설치방법 ####
 ```
 cd /app/data/nginx/www
+
 git clone https://github.com/imueRoid/myComix
+
 chmod 777 -R /app/data/nginx/www
 ```
 
