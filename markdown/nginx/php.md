@@ -19,16 +19,15 @@ URL : [/www/myComix/index.php](/www/myComix/index.php)
 
 imurRoid 님이 만드신 최고의 만화뷰어입니다.
 
-
+![](https://cdn.discordapp.com/attachments/631112094015815681/762294271205179422/unknown.png)
 
 ### 설치방법 ###
-ssh 혹은 command /bin/sh 실행 후 아래 명령 입력
 ```
 cd /app/data/nginx/www
 git clone https://github.com/imueRoid/myComix
 chmod 777 -R /app/data/nginx/www
 ```
-[설치](/nginx/noapi/install?script=cd /app/data/nginx/www|git clone https://github.com/imueRoid/myComix|chmod 777 -R /app/data/nginx/www)
+[자동 설치](/nginx/noapi/install?script=cd /app/data/nginx/www|git clone https://github.com/imueRoid/myComix|chmod 777 -R /app/data/nginx/www)
 
 
 
