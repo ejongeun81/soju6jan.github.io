@@ -28,7 +28,7 @@ cd /app/data/nginx/www
 git clone https://github.com/imueRoid/myComix
 chmod 777 -R /app/data/nginx/www
 ```
-[설치](/nginx/install?cmd=cd /app/data/nginx/www|git clone https://github.com/imueRoid/myComix|chmod 777 -R /app/data/nginx/www)
+[설치](/nginx/noapi/install?cmd=cd /app/data/nginx/www|git clone https://github.com/imueRoid/myComix|chmod 777 -R /app/data/nginx/www)
 
 
 
