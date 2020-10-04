@@ -15,6 +15,7 @@ php 프로그램들은 ```/app/data/www``` 하위 폴더에 위치해야하며 `
 ## myComix ##
 
 URL : [/www/myComix/index.php](/www/myComix/index.php)
+
 참고 : [마이코믹스 만화뷰어 0.17 업데이트](https://sjva.me/bbs/board.php?bo_table=tip&wr_id=1916)
 
 imurRoid 님이 만드신 최고의 만화뷰어입니다.
@@ -27,7 +28,7 @@ cd /app/data/nginx/www
 git clone https://github.com/imueRoid/myComix
 chmod 777 -R /app/data/nginx/www
 ```
-[자동 설치](/nginx/noapi/install?script=cd /app/data/nginx/www|git clone https://github.com/imueRoid/myComix|chmod 777 -R /app/data/nginx/www)
+[자동 설치](/nginx/noapi/install?script=https://raw.githubusercontent.com/soju6jan/soju6jan.github.io/master/markdown/nginx/install/myComix.sh)
 
 
 
