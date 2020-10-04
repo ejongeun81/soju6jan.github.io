@@ -8,18 +8,18 @@ phpinfo : [phpinfo.php](/www/phpinfo.php)
 
 ## myComix ##
 
+URL : [/www/myComix/index.php](/www/myComix/index.php)
+
 imurRoid 님이 만드신 만화뷰어입니다.
 
 참고 : [마이코믹스 만화뷰어 0.17 업데이트](https://sjva.me/bbs/board.php?bo_table=tip&wr_id=1916)
 
 ### 설치방법 ####
 ```
-cd /app/data/nginx/www
-
-git clone https://github.com/imueRoid/myComix
-
-chmod 777 -R /app/data/nginx/www
+cd /app/data/nginx/www<br>
+git clone https://github.com/imueRoid/myComix<br>
+chmod 777 -R /app/data/nginx/www<br>
 ```
 
-URL : [/www/myComix/index.php](/www/myComix/index.php)
+
 
